@@ -1,0 +1,3854 @@
+{
+ "Data": [
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.77878249466137,
+   "weight": 77.80533123646703,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.9183495380054716,
+   "weight": 78.81806281317611,
+   "label": "soccer"
+  },
+  {
+   "height": 1.707444338639565,
+   "weight": 78.15343788052695,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4744765290571265,
+   "weight": 71.2001788954911,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7850680371814855,
+   "weight": 80.45174992369698,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6110310577705191,
+   "weight": 76.61470508436594,
+   "label": "soccer"
+  },
+  {
+   "height": 1.793605265798904,
+   "weight": 71.01101198512016,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7626066895392007,
+   "weight": 76.17940816178896,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8243849415222897,
+   "weight": 89.71123368445734,
+   "label": "soccer"
+  },
+  {
+   "height": 1.932847699506419,
+   "weight": 80.08333166458439,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7275477802149486,
+   "weight": 79.5338178250487,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8617553371855107,
+   "weight": 67.0236891935406,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6856009795775615,
+   "weight": 83.17509215827668,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8793070437182526,
+   "weight": 77.77786180092154,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5003884868562556,
+   "weight": 80.3256595463373,
+   "label": "soccer"
+  },
+  {
+   "height": 2.002210984906773,
+   "weight": 79.88354236077237,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5259533590127732,
+   "weight": 72.72257301905051,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8975550377596053,
+   "weight": 86.82022259514336,
+   "label": "soccer"
+  },
+  {
+   "height": 1.964437942894477,
+   "weight": 79.15578278066961,
+   "label": "soccer"
+  },
+  {
+   "height": 1.3262048389303351,
+   "weight": 75.5523478427714,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6727185036733525,
+   "weight": 70.62342590080858,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4997513803742184,
+   "weight": 80.87368214437073,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8527344164043646,
+   "weight": 79.09098785594753,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7971128431025363,
+   "weight": 63.22413801272225,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8010279876579522,
+   "weight": 65.59030777581688,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8954635396927912,
+   "weight": 73.21875872981805,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6415587324992853,
+   "weight": 82.80005103609834,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.778517864868197,
+   "weight": 70.24386209021107,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.601793446366426,
+   "weight": 80.45065481829404,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4942857031647607,
+   "weight": 72.02574118803363,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7431184269656024,
+   "weight": 63.85301475101352,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8973688433221723,
+   "weight": 80.67795749277354,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.866962087169777,
+   "weight": 77.02305055863603,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6208087212826396,
+   "weight": 78.92370494994567,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9994137615047876,
+   "weight": 74.07639598522191,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0535192043827286,
+   "weight": 82.52222729693484,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6767023390057938,
+   "weight": 73.1882954084537,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6224347391828036,
+   "weight": 78.88703485589927,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8155752662089333,
+   "weight": 72.80085395701839,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7590005385663998,
+   "weight": 76.13447001576353,
+   "label": "soccer"
+  },
+  {
+   "height": 1.872554799784796,
+   "weight": 76.26441626791502,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8295739600886038,
+   "weight": 78.44031397905437,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6151115932425733,
+   "weight": 83.10971556013429,
+   "label": "soccer"
+  },
+  {
+   "height": 2.140843460210874,
+   "weight": 71.85978277779381,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7761053560589593,
+   "weight": 74.5892669913828,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 2.061482343634832,
+   "weight": 71.76170158085597,
+   "label": "soccer"
+  },
+  {
+   "height": 2.00626337741545,
+   "weight": 81.0156477948202,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7153655923940252,
+   "weight": 74.00150028669,
+   "label": "soccer"
+  },
+  {
+   "height": 1.894726946750031,
+   "weight": 79.93429268762003,
+   "label": "soccer"
+  },
+  {
+   "height": 2.204263695599399,
+   "weight": 79.34282433816638,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7120349656938942,
+   "weight": 77.23154838424121,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7801380531025168,
+   "weight": 73.48859984915974,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9717093727462176,
+   "weight": 72.9966752788664,
+   "label": "soccer"
+  },
+  {
+   "height": 1.3556338962987082,
+   "weight": 80.45990812655052,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7035673535362412,
+   "weight": 77.86884549860042,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0723368994234717,
+   "weight": 74.26285850455783,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6031337055961612,
+   "weight": 78.66689861847891,
+   "label": "soccer"
+  },
+  {
+   "height": 2.1206608717314253,
+   "weight": 74.9573397473251,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6228964974485938,
+   "weight": 76.50286573114128,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7628608676071746,
+   "weight": 75.40451488481125,
+   "label": "soccer"
+  },
+  {
+   "height": 1.614038575179669,
+   "weight": 77.0261094747642,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9831597273148902,
+   "weight": 79.34128743955551,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.977910585717475,
+   "weight": 78.79446271447146,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.373169242236185,
+   "weight": 76.93908181836755,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8278219742859698,
+   "weight": 72.46728704982343,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7236797279650702,
+   "weight": 74.18435762892074,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9573906875526537,
+   "weight": 84.30556935430592,
+   "label": "soccer"
+  },
+  {
+   "height": 1.751716401651388,
+   "weight": 67.72087474713442,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8316826403748663,
+   "weight": 70.53563050366549,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 2.1405430046952083,
+   "weight": 78.93189611470494,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6679636083704106,
+   "weight": 66.4933551957202,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4067814167009813,
+   "weight": 71.71881083513283,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7667902955343093,
+   "weight": 68.16966636920185,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6882655117667273,
+   "weight": 80.08861471091345,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4941434271134149,
+   "weight": 77.51152991663653,
+   "label": "soccer"
+  },
+  {
+   "height": 2.16480745763742,
+   "weight": 79.4049814184244,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9518519078058916,
+   "weight": 78.14597211056548,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5671307111287458,
+   "weight": 66.43198430424405,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5278580560238835,
+   "weight": 77.89006966529652,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6054912567647988,
+   "weight": 75.03187939982143,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6040476645112036,
+   "weight": 76.72646584932411,
+   "label": "soccer"
+  },
+  {
+   "height": 1.96424510207725,
+   "weight": 87.04879269517929,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.817173932131125,
+   "weight": 77.37288277482284,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0010315514037003,
+   "weight": 79.23482370038933,
+   "label": "soccer"
+  },
+  {
+   "height": 2.1240181373621887,
+   "weight": 82.54650990282263,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5269857537007772,
+   "weight": 76.07953546590086,
+   "label": "soccer"
+  },
+  {
+   "height": 1.943004813218827,
+   "weight": 81.83693924942433,
+   "label": "soccer"
+  },
+  {
+   "height": 2.2043137871186973,
+   "weight": 68.56606473375832,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5224513321069773,
+   "weight": 76.15243325259799,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6016401911581448,
+   "weight": 71.48960841262338,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7399560182107963,
+   "weight": 76.90023627915052,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.567023821980601,
+   "weight": 82.52762991957842,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4274691906584207,
+   "weight": 69.37556611235203,
+   "label": "soccer"
+  },
+  {
+   "height": 2.1079095500879808,
+   "weight": 81.54105749928868,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9347586756929405,
+   "weight": 82.67537004791052,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9594265092034588,
+   "weight": 74.8478200115549,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8315741449770422,
+   "weight": 77.5530482702721,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9708360363057313,
+   "weight": 75.55486691875488,
+   "label": "soccer"
+  },
+  {
+   "height": 2.039191741211389,
+   "weight": 70.2322782020441,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6931302384935971,
+   "weight": 72.52597630090624,
+   "label": "soccer"
+  },
+  {
+   "height": 2.139353269529697,
+   "weight": 74.10247840900595,
+   "label": "soccer"
+  },
+  {
+   "height": 1.925465878963062,
+   "weight": 80.64596356426554,
+   "label": "soccer"
+  },
+  {
+   "height": 2.17708331971222,
+   "weight": 74.6905110141806,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8671944107868947,
+   "weight": 74.93942624580701,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9231347097372968,
+   "weight": 76.48296846349679,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7550486266595662,
+   "weight": 80.69005614624193,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0134297204217106,
+   "weight": 72.85100565151262,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9489208775097653,
+   "weight": 83.94295323822571,
+   "label": "soccer"
+  },
+  {
+   "height": 1.815563851581577,
+   "weight": 76.86725253115473,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 2.162129692144899,
+   "weight": 82.78400058521558,
+   "label": "soccer"
+  },
+  {
+   "height": 2.079311594192382,
+   "weight": 75.52783969650281,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6459233385476468,
+   "weight": 86.06895021414074,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9252799693990539,
+   "weight": 78.03636036881126,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5618062665033912,
+   "weight": 73.74285604254408,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7312391783604784,
+   "weight": 87.10533405264188,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5637583857804924,
+   "weight": 80.91190787695446,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6050976837818483,
+   "weight": 78.7882243117201,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.9298993267512696,
+   "weight": 68.53347266642866,
+   "label": "soccer"
+  },
+  {
+   "height": 2.039177227004662,
+   "weight": 84.5074759469442,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 2.083360793763492,
+   "weight": 76.91646109747816,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6764584649219152,
+   "weight": 75.62338327909559,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9682683672877765,
+   "weight": 80.52259391016706,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7724095415998236,
+   "weight": 81.0964546855045,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5347322876438698,
+   "weight": 81.63961851584357,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0113750251069615,
+   "weight": 82.27482230917799,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7712832191057455,
+   "weight": 70.43008988918032,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9300075607133185,
+   "weight": 72.14358077347102,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7112352992980147,
+   "weight": 76.8048181268804,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9528681508553742,
+   "weight": 80.65194730546222,
+   "label": "soccer"
+  },
+  {
+   "height": 1.935161671374493,
+   "weight": 80.25543806095804,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.3996038415026204,
+   "weight": 82.22230966547752,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 2.0142191644727787,
+   "weight": 82.8377874320447,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5878160326558655,
+   "weight": 81.0086242475104,
+   "label": "soccer"
+  },
+  {
+   "height": 1.993266323349717,
+   "weight": 70.92361967779395,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6294614284783686,
+   "weight": 75.10829719727064,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5304212329466624,
+   "weight": 84.67476829917162,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5789606223313382,
+   "weight": 81.42271764835998,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6710861807280286,
+   "weight": 85.52621307707734,
+   "label": "soccer"
+  },
+  {
+   "height": 2.150227767844214,
+   "weight": 82.17673578436283,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7372631954641606,
+   "weight": 63.91370058166925,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8032286430067113,
+   "weight": 76.50189742679672,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.3672657258313026,
+   "weight": 71.07762848806473,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6181191114716509,
+   "weight": 75.1516068623084,
+   "label": "soccer"
+  },
+  {
+   "height": 2.1660449252947536,
+   "weight": 73.00846869832218,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4073150943452082,
+   "weight": 80.58624751337307,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7868971570674514,
+   "weight": 80.34033121083547,
+   "label": "soccer"
+  },
+  {
+   "height": 1.398927745905814,
+   "weight": 74.49986763600272,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7063422042834204,
+   "weight": 74.67804204430422,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8227792492766568,
+   "weight": 83.32584448526264,
+   "label": "soccer"
+  },
+  {
+   "height": 1.784373360035705,
+   "weight": 72.5261840689634,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6686945676448763,
+   "weight": 86.47336149509951,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.6986590117820342,
+   "weight": 71.25561428649242,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8717994686100177,
+   "weight": 78.98454094641767,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6969170782981333,
+   "weight": 77.28582112407014,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0003182884978323,
+   "weight": 78.01280213171438,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5389879392900032,
+   "weight": 71.4859937540671,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7030698514183462,
+   "weight": 75.70437675400153,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9247829964940284,
+   "weight": 82.75389061626277,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.732784504549365,
+   "weight": 78.26332546620296,
+   "label": "soccer"
+  },
+  {
+   "height": 1.965721724633658,
+   "weight": 75.07769444847541,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8553399693551085,
+   "weight": 69.87079364895501,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7578834416918006,
+   "weight": 76.10860612691823,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7968191912543896,
+   "weight": 76.68606458327335,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7722459395097778,
+   "weight": 77.40433631986414,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4811724685538246,
+   "weight": 77.1635693472873,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8123285653961012,
+   "weight": 76.95316982579541,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6069167882367845,
+   "weight": 80.8804117837429,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8466827693454826,
+   "weight": 69.95404053483107,
+   "label": "soccer"
+  },
+  {
+   "height": 2.044945230307788,
+   "weight": 77.51854492722693,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5891009961827522,
+   "weight": 79.54449935783308,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9896673276649697,
+   "weight": 76.84433493569921,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8877010974671542,
+   "weight": 74.31805714534941,
+   "label": "soccer"
+  },
+  {
+   "height": 1.743146489976617,
+   "weight": 77.392600740268,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8150554391032674,
+   "weight": 72.93594796519112,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7827574932405308,
+   "weight": 73.5439652490552,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7804878497503314,
+   "weight": 80.3770511546351,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9759339920642864,
+   "weight": 73.85292899912895,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8879382897373769,
+   "weight": 72.44281995121733,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7434406570971062,
+   "weight": 74.15878070520503,
+   "label": "soccer"
+  },
+  {
+   "height": 2.017611517064993,
+   "weight": 77.41546449181213,
+   "label": "soccer"
+  },
+  {
+   "height": 1.430542502805558,
+   "weight": 80.95100968314594,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4415889839172602,
+   "weight": 77.95605663294323,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9059130337051344,
+   "weight": 80.80597154919009,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0898657529219813,
+   "weight": 75.5891152516866,
+   "label": "soccer"
+  },
+  {
+   "height": 2.150429288061508,
+   "weight": 76.2963140596894,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7736450501939327,
+   "weight": 78.18033771519897,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8953993418550843,
+   "weight": 82.23997968832606,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8170335132671982,
+   "weight": 83.94275697856015,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8972664481478339,
+   "weight": 76.19153220413565,
+   "label": "soccer"
+  },
+  {
+   "height": 2.107297600490573,
+   "weight": 84.68512054682657,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6820903590633702,
+   "weight": 71.03377759481357,
+   "label": "soccer"
+  },
+  {
+   "height": 1.672793279860135,
+   "weight": 79.2130175699665,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7660581462172784,
+   "weight": 77.81889965777184,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4885461443287091,
+   "weight": 71.93943913941823,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0626399979861487,
+   "weight": 68.96275894037734,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0104976123951057,
+   "weight": 81.6635312891406,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8971606097241167,
+   "weight": 76.07869379036339,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9347473707195322,
+   "weight": 75.91186566203729,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.958038219715851,
+   "weight": 73.42515431301244,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5632557033937238,
+   "weight": 77.55382667429475,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8550799265050297,
+   "weight": 77.9389905847182,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6269217818588266,
+   "weight": 78.69496575125412,
+   "label": "soccer"
+  },
+  {
+   "height": 1.733810202660087,
+   "weight": 74.36536289209532,
+   "label": "soccer"
+  },
+  {
+   "height": 1.76983135324216,
+   "weight": 74.6442698508853,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6972488185421124,
+   "weight": 66.83782813120385,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6567103116578117,
+   "weight": 71.73034085688019,
+   "label": "soccer"
+  },
+  {
+   "height": 1.656676635144883,
+   "weight": 68.90568226861116,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8185027020217666,
+   "weight": 80.58716994252062,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7051030705065604,
+   "weight": 84.02800648648102,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.846720537938346,
+   "weight": 76.31821072947218,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6529220487772092,
+   "weight": 79.2049743873217,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.9092914765998377,
+   "weight": 83.18921131091352,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8698237241111266,
+   "weight": 77.07692242427103,
+   "label": "soccer"
+  },
+  {
+   "height": 1.698590306985716,
+   "weight": 77.60727689100912,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 2.375723632337282,
+   "weight": 82.9431483417354,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8685510273714472,
+   "weight": 81.82727086614689,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6700248357138834,
+   "weight": 70.47906296445707,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6541293968794777,
+   "weight": 81.7427689003379,
+   "label": "soccer"
+  },
+  {
+   "height": 1.455744960617835,
+   "weight": 75.88579908420861,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6947479635971665,
+   "weight": 73.6764863894267,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.593873294798991,
+   "weight": 83.53978486076437,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6511630336116048,
+   "weight": 82.06212279347295,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0730201321203188,
+   "weight": 76.66127235559709,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7468074818969161,
+   "weight": 75.27908122572259,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8073285765334581,
+   "weight": 70.73169979337618,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8984680100947557,
+   "weight": 73.26238321005587,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8704148609345972,
+   "weight": 80.11482455991107,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0107110969738993,
+   "weight": 76.65332812906756,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7997087240228304,
+   "weight": 75.1893548485714,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7274867209354,
+   "weight": 81.60068845409208,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7386899943088017,
+   "weight": 81.94547309687593,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8604625102543368,
+   "weight": 76.13559775138297,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.71421991480032,
+   "weight": 82.54140724710952,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.5742050702556567,
+   "weight": 73.38639238675408,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8447545707858473,
+   "weight": 64.49608695557043,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4196695713487752,
+   "weight": 82.8200273572474,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9499134796470063,
+   "weight": 70.52467630979295,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7435678817999718,
+   "weight": 84.25260367350295,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6109208523436656,
+   "weight": 74.76875038674324,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.8116011943803048,
+   "weight": 73.85155164321972,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0628838244325785,
+   "weight": 80.20452085343463,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6562503654092626,
+   "weight": 76.73489469330275,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8122538643890649,
+   "weight": 71.83941015220452,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8359695063443353,
+   "weight": 78.74949739549498,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7269080762346487,
+   "weight": 81.50373062622377,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6305007358993275,
+   "weight": 80.79682051096151,
+   "label": "soccer"
+  },
+  {
+   "height": 2.056875206970822,
+   "weight": 82.88269584292165,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8325767573001797,
+   "weight": 85.98251306985858,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6135054454358646,
+   "weight": 83.53978827408997,
+   "label": "soccer"
+  },
+  {
+   "height": 1.884403988889965,
+   "weight": 80.6424866406866,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6726106285223978,
+   "weight": 76.82039593451819,
+   "label": "soccer"
+  },
+  {
+   "height": 2.027762324234973,
+   "weight": 76.46237954370439,
+   "label": "soccer"
+  },
+  {
+   "height": 1.925054799097713,
+   "weight": 83.87871527720249,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6499588477997373,
+   "weight": 61.66797299868533,
+   "label": "soccer"
+  },
+  {
+   "height": 1.3938640323816878,
+   "weight": 81.42024981941464,
+   "label": "soccer"
+  },
+  {
+   "height": 1.678104824885849,
+   "weight": 70.50646970375924,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8550428908763725,
+   "weight": 72.62542894346495,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8762789143294707,
+   "weight": 80.91762182252968,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6614346582947568,
+   "weight": 80.37015934577906,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9122666791105156,
+   "weight": 76.92723073323064,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0709144983117724,
+   "weight": 76.47268122697476,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.914205627064377,
+   "weight": 79.84945050200709,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6037448108915904,
+   "weight": 78.45244675625034,
+   "label": "soccer"
+  },
+  {
+   "height": 1.768293624484526,
+   "weight": 76.96563082456264,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.718567159373595,
+   "weight": 74.97742170253379,
+   "label": "soccer"
+  },
+  {
+   "height": 2.1159002810661764,
+   "weight": 80.17685434053776,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4941952181843352,
+   "weight": 79.05125491833067,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9779808636175464,
+   "weight": 80.5889141052724,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9768423398423223,
+   "weight": 75.2502498734694,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7333164074779484,
+   "weight": 85.33520769385152,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7926724572076904,
+   "weight": 84.09015022139624,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7029030043214888,
+   "weight": 85.97956044838958,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7821319124406387,
+   "weight": 88.4394659447141,
+   "label": "soccer"
+  },
+  {
+   "height": 1.85671443600002,
+   "weight": 74.77222915146311,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7009208760360608,
+   "weight": 79.59076181628238,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7947147599619906,
+   "weight": 83.62344380909167,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8362840794068929,
+   "weight": 81.72977397391821,
+   "label": "soccer"
+  },
+  {
+   "height": 2.037114950599781,
+   "weight": 73.09596210451664,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6205460072334592,
+   "weight": 81.30246359415989,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8517698943875915,
+   "weight": 75.67704779799729,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0019015642852303,
+   "weight": 80.18180240052902,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4377350209560547,
+   "weight": 77.59081922807798,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0235272502645967,
+   "weight": 82.51319234494484,
+   "label": "soccer"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "soccer"
+  },
+  {
+   "height": 1.3400235350716256,
+   "weight": 73.00478051267214,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8524911367914463,
+   "weight": 83.99164446885327,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9819194545901848,
+   "weight": 73.18576559558568,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8985037248535532,
+   "weight": 80.53788783682697,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5454694826592603,
+   "weight": 78.02558072453493,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7830947364368757,
+   "weight": 76.05393093590611,
+   "label": "soccer"
+  },
+  {
+   "height": 1.69839992194491,
+   "weight": 77.70531444033197,
+   "label": "soccer"
+  },
+  {
+   "height": 1.6292418986033694,
+   "weight": 80.23068537640944,
+   "label": "soccer"
+  },
+  {
+   "height": 1.4541394040529532,
+   "weight": 75.65641477133389,
+   "label": "soccer"
+  },
+  {
+   "height": 1.9335096154506275,
+   "weight": 74.35872646822344,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 1.452796521317508,
+   "weight": 77.65733705490138,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7770046630323557,
+   "weight": 76.16626277702537,
+   "label": "soccer"
+  },
+  {
+   "height": 1.7736195362132128,
+   "weight": 80.94428873563484,
+   "label": "soccer"
+  },
+  {
+   "height": 1.5997330068534732,
+   "weight": 74.43574673797049,
+   "label": "soccer"
+  },
+  {
+   "height": 1.8230312348158009,
+   "weight": 74.90808720134787,
+   "label": "soccer"
+  },
+  {
+   "height": 2.0246087330100457,
+   "weight": 79.58575320564879,
+   "label": "soccer"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "soccer"
+  },
+  {
+   "height": 2.097202069827909,
+   "weight": 76.67285547462491,
+   "label": "soccer"
+  },
+  {
+   "height": 2.102896348449606,
+   "weight": 88.47589103442265,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0084676092570355,
+   "weight": 107.55028144237733,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9367119338718801,
+   "weight": 94.26123448682725,
+   "label": "basketball"
+  },
+  {
+   "height": 2.425497324164517,
+   "weight": 99.08396590731304,
+   "label": "basketball"
+  },
+  {
+   "height": 1.960714748021421,
+   "weight": 99.0111060784981,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1749454395325496,
+   "weight": 104.57265270753616,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0251076869220728,
+   "weight": 103.14244193753983,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1001735772421095,
+   "weight": 104.06057406540758,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 1.6144936670995926,
+   "weight": 108.57699883186199,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8905470873212127,
+   "weight": 101.8092153536348,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.076018022635275,
+   "weight": 97.10392740960329,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7698140698177196,
+   "weight": 107.24482487761345,
+   "label": "basketball"
+  },
+  {
+   "height": 2.3165288162848823,
+   "weight": 98.90005447626794,
+   "label": "basketball"
+  },
+  {
+   "height": 2.009488129563635,
+   "weight": 97.90785591732967,
+   "label": "basketball"
+  },
+  {
+   "height": 2.312118268928163,
+   "weight": 92.19796394431636,
+   "label": "basketball"
+  },
+  {
+   "height": 2.466458753748292,
+   "weight": 103.06986697530107,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.950894322724958,
+   "weight": 99.37880212524695,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0165963951540995,
+   "weight": 109.77440766383899,
+   "label": "basketball"
+  },
+  {
+   "height": 1.994604423365602,
+   "weight": 100.93748059785773,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9356380882650022,
+   "weight": 95.98184094276668,
+   "label": "basketball"
+  },
+  {
+   "height": 2.150847209611599,
+   "weight": 104.97839306816333,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9963122011777503,
+   "weight": 99.4475751656546,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0970184949382187,
+   "weight": 102.86762787915406,
+   "label": "basketball"
+  },
+  {
+   "height": 2.14339871064768,
+   "weight": 106.32927510936983,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7494653495103702,
+   "weight": 108.53579683157713,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1169677200027355,
+   "weight": 101.00403106726151,
+   "label": "basketball"
+  },
+  {
+   "height": 1.961695386815524,
+   "weight": 89.75801901047386,
+   "label": "basketball"
+  },
+  {
+   "height": 2.253304327967064,
+   "weight": 103.44349216469399,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1957448257011563,
+   "weight": 93.96533260641378,
+   "label": "basketball"
+  },
+  {
+   "height": 2.237573078785022,
+   "weight": 104.67235489679254,
+   "label": "basketball"
+  },
+  {
+   "height": 2.293143048617428,
+   "weight": 99.11292411355294,
+   "label": "basketball"
+  },
+  {
+   "height": 2.3392040004046795,
+   "weight": 99.61087064782943,
+   "label": "basketball"
+  },
+  {
+   "height": 2.025393605786933,
+   "weight": 105.434805480313,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1389975136718857,
+   "weight": 99.1238839482765,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.212093707988269,
+   "weight": 98.93719847977997,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0961108757735745,
+   "weight": 96.54643496472247,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8811556072812665,
+   "weight": 109.04307994715063,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7415752719189337,
+   "weight": 95.85367064897461,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0172930346414146,
+   "weight": 103.36182573033282,
+   "label": "basketball"
+  },
+  {
+   "height": 1.6572823218912474,
+   "weight": 96.11645683957146,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.978645339148604,
+   "weight": 102.74721681483737,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8740154461458403,
+   "weight": 96.8799659568671,
+   "label": "basketball"
+  },
+  {
+   "height": 1.89840160934596,
+   "weight": 96.92743674113194,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0945879079774623,
+   "weight": 93.45823599852794,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.5574331557929073,
+   "weight": 97.09333167237318,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 2.151171942224693,
+   "weight": 85.96947901911675,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9897591316886076,
+   "weight": 103.66457709977168,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0620449827730516,
+   "weight": 103.8305353658214,
+   "label": "basketball"
+  },
+  {
+   "height": 1.784049018662793,
+   "weight": 99.3934915024646,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.068741722128359,
+   "weight": 104.46079365075163,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 2.161931624298492,
+   "weight": 94.6425759266556,
+   "label": "basketball"
+  },
+  {
+   "height": 2.010502240249587,
+   "weight": 99.29214016802484,
+   "label": "basketball"
+  },
+  {
+   "height": 1.863436459813073,
+   "weight": 95.12402536106912,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.78957997474275,
+   "weight": 105.3317530100018,
+   "label": "basketball"
+  },
+  {
+   "height": 1.5903937484839585,
+   "weight": 104.38076819078756,
+   "label": "basketball"
+  },
+  {
+   "height": 2.3813194249888276,
+   "weight": 102.90757274245992,
+   "label": "basketball"
+  },
+  {
+   "height": 1.812960385598248,
+   "weight": 103.34784685109561,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0571188593473444,
+   "weight": 105.23008596905332,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2603041436320637,
+   "weight": 103.38926389731921,
+   "label": "basketball"
+  },
+  {
+   "height": 1.5131611306652124,
+   "weight": 102.4937515393012,
+   "label": "basketball"
+  },
+  {
+   "height": 2.001292615461796,
+   "weight": 105.88222143327316,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7358780206991606,
+   "weight": 95.8604193528751,
+   "label": "basketball"
+  },
+  {
+   "height": 2.100280936418054,
+   "weight": 99.20594405982155,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7516948103382497,
+   "weight": 105.70375841700124,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7103598551802555,
+   "weight": 103.15381366941388,
+   "label": "basketball"
+  },
+  {
+   "height": 2.013474998589424,
+   "weight": 89.22407468236682,
+   "label": "basketball"
+  },
+  {
+   "height": 2.04585922023585,
+   "weight": 103.54083030378686,
+   "label": "basketball"
+  },
+  {
+   "height": 2.125147015551693,
+   "weight": 100.469106891866,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2421111054162965,
+   "weight": 103.54737050340222,
+   "label": "basketball"
+  },
+  {
+   "height": 1.812011558121527,
+   "weight": 99.48942641981,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1754869083778763,
+   "weight": 111.11021846094836,
+   "label": "basketball"
+  },
+  {
+   "height": 1.5847677195783927,
+   "weight": 100.54930086624937,
+   "label": "basketball"
+  },
+  {
+   "height": 2.149465330238345,
+   "weight": 101.25830378512563,
+   "label": "basketball"
+  },
+  {
+   "height": 1.917465006249945,
+   "weight": 106.24853365931273,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8021068716604927,
+   "weight": 95.03157933313679,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7037181773181245,
+   "weight": 109.05742689666346,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.180006103557068,
+   "weight": 101.21665881362115,
+   "label": "basketball"
+  },
+  {
+   "height": 2.045132439454554,
+   "weight": 93.30953283749773,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1676017022083665,
+   "weight": 102.91674680662202,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0873795077124844,
+   "weight": 104.29181639869147,
+   "label": "basketball"
+  },
+  {
+   "height": 2.161506387854433,
+   "weight": 104.56935608094882,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7611354619513397,
+   "weight": 104.54508978101553,
+   "label": "basketball"
+  },
+  {
+   "height": 2.186896430238475,
+   "weight": 105.68110324575444,
+   "label": "basketball"
+  },
+  {
+   "height": 1.954549383601507,
+   "weight": 104.43104659747526,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9834845765846556,
+   "weight": 110.31186832768996,
+   "label": "basketball"
+  },
+  {
+   "height": 2.083641314643268,
+   "weight": 89.02178696762668,
+   "label": "basketball"
+  },
+  {
+   "height": 1.736449494534398,
+   "weight": 98.6249123583876,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.436902723879452,
+   "weight": 98.93987905643624,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8136120483538052,
+   "weight": 100.67910399613038,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1336919309623243,
+   "weight": 100.06789897997469,
+   "label": "basketball"
+  },
+  {
+   "height": 2.074605581440325,
+   "weight": 101.10904615488978,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9171659953528635,
+   "weight": 99.2795879857939,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.115610027050608,
+   "weight": 91.44991758259187,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8852726127005595,
+   "weight": 98.43356828737322,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9036061495993175,
+   "weight": 105.50298721057688,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1614129814826293,
+   "weight": 107.33460875765527,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9226637413218888,
+   "weight": 94.86202073005717,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1004185907170005,
+   "weight": 106.19939565497774,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.6214499116097034,
+   "weight": 102.29146504575813,
+   "label": "basketball"
+  },
+  {
+   "height": 2.008849612805867,
+   "weight": 94.55251630208005,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0216372024327534,
+   "weight": 97.67392730020589,
+   "label": "basketball"
+  },
+  {
+   "height": 2.154720684839483,
+   "weight": 98.19366474602619,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8092387817314572,
+   "weight": 104.08566907853402,
+   "label": "basketball"
+  },
+  {
+   "height": 1.802594002631434,
+   "weight": 101.11574901116678,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2953628949252916,
+   "weight": 104.18146617736757,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7927710303360707,
+   "weight": 101.03820213982668,
+   "label": "basketball"
+  },
+  {
+   "height": 2.176418678676356,
+   "weight": 101.44506474791385,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.8432521573207723,
+   "weight": 105.94798108688445,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0177245655355476,
+   "weight": 95.9141720162727,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7567926025204563,
+   "weight": 96.32667067732419,
+   "label": "basketball"
+  },
+  {
+   "height": 2.10070318091026,
+   "weight": 99.1281661436253,
+   "label": "basketball"
+  },
+  {
+   "height": 2.042643636947106,
+   "weight": 100.63764484806993,
+   "label": "basketball"
+  },
+  {
+   "height": 2.271366413074342,
+   "weight": 101.8987906075673,
+   "label": "basketball"
+  },
+  {
+   "height": 2.145884797316169,
+   "weight": 97.01768926934464,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8722224530693496,
+   "weight": 104.43849265828322,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0310384344017987,
+   "weight": 102.83965307405825,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7968738638863915,
+   "weight": 95.20986200055302,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1244643806277157,
+   "weight": 97.82271931343595,
+   "label": "basketball"
+  },
+  {
+   "height": 2.194700314854023,
+   "weight": 100.4893409425655,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1151843669663677,
+   "weight": 88.3534074992692,
+   "label": "basketball"
+  },
+  {
+   "height": 2.335223281739137,
+   "weight": 95.05353862757893,
+   "label": "basketball"
+  },
+  {
+   "height": 2.149228168962468,
+   "weight": 102.69909900395015,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2045972565852447,
+   "weight": 98.033321694986,
+   "label": "basketball"
+  },
+  {
+   "height": 2.094909828302252,
+   "weight": 99.33049624611014,
+   "label": "basketball"
+  },
+  {
+   "height": 2.4060910139140215,
+   "weight": 105.07271775573611,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.124390907884826,
+   "weight": 97.46531399385621,
+   "label": "basketball"
+  },
+  {
+   "height": 2.177050433263365,
+   "weight": 102.3028890274507,
+   "label": "basketball"
+  },
+  {
+   "height": 1.936455601076497,
+   "weight": 104.88661937655701,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0444131907455447,
+   "weight": 90.03350757942027,
+   "label": "basketball"
+  },
+  {
+   "height": 2.230489985593441,
+   "weight": 102.4372929152185,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9061373363226481,
+   "weight": 101.02138574255743,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.211471618254574,
+   "weight": 101.42477106241738,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7803280767142873,
+   "weight": 101.4774335360893,
+   "label": "basketball"
+  },
+  {
+   "height": 2.3311927431528807,
+   "weight": 97.31088191173413,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 1.757868168907894,
+   "weight": 97.35611079286922,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7885082350880768,
+   "weight": 96.69162812944215,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": NaN
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.790971101135376,
+   "weight": 111.038621432941,
+   "label": "basketball"
+  },
+  {
+   "height": 2.023825576216787,
+   "weight": 99.59132415065159,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0128286008675897,
+   "weight": 98.68347999912339,
+   "label": "basketball"
+  },
+  {
+   "height": 2.177171762040865,
+   "weight": 107.02314193994279,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0784172053423835,
+   "weight": 96.03375250140711,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.72898956652708,
+   "weight": 98.65733910728339,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7588045372439252,
+   "weight": 102.80042897333934,
+   "label": "basketball"
+  },
+  {
+   "height": 2.289866230596264,
+   "weight": 94.17665787830886,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2356354776502547,
+   "weight": 100.90262973966607,
+   "label": "basketball"
+  },
+  {
+   "height": 2.285785212132479,
+   "weight": 103.85991427460934,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2418826462093175,
+   "weight": 101.92490022111087,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": NaN
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 2.0237944119630806,
+   "weight": 103.65395714964637,
+   "label": "basketball"
+  },
+  {
+   "height": 2.3486521273358716,
+   "weight": 101.3022771863765,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 2.222708534855199,
+   "weight": 102.17868821620517,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9365758932640937,
+   "weight": 97.66507979656461,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 2.3889006528355337,
+   "weight": 100.76251252373916,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9199723928283103,
+   "weight": 98.59930008165598,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7022825914721427,
+   "weight": 98.89438386859823,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2104171691529997,
+   "weight": 99.18917118135595,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0717871033418236,
+   "weight": 98.26915214363828,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.9893607991947964,
+   "weight": 103.1809405234172,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1278597120740197,
+   "weight": 89.74043445883412,
+   "label": "basketball"
+  },
+  {
+   "height": 2.329542816295239,
+   "weight": 100.63525370684127,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8103576674334023,
+   "weight": 106.81077013649625,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.158691179308507,
+   "weight": 93.33847503366167,
+   "label": "basketball"
+  },
+  {
+   "height": 1.927322869511277,
+   "weight": 100.57840715056601,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2051431571620608,
+   "weight": 104.81392642791596,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7957256787582354,
+   "weight": 99.55483425867197,
+   "label": "basketball"
+  },
+  {
+   "height": 1.818919693728813,
+   "weight": 97.4393169120684,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1576188048178606,
+   "weight": 100.63525252144187,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8214557746563917,
+   "weight": 95.44646933778482,
+   "label": "basketball"
+  },
+  {
+   "height": 1.6994904707181169,
+   "weight": 104.38836349214203,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7334770484938864,
+   "weight": 103.2962455446303,
+   "label": "basketball"
+  },
+  {
+   "height": 2.006458690036206,
+   "weight": 101.50672501143589,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0397986183661065,
+   "weight": 106.69100789986825,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9539214162462313,
+   "weight": 99.58501167682178,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8710766690154765,
+   "weight": 95.5781040054911,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8972093624846864,
+   "weight": 105.6649708668042,
+   "label": "basketball"
+  },
+  {
+   "height": 2.014007638320756,
+   "weight": 95.80051818338893,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9788447134779856,
+   "weight": 100.6565208080645,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2824813116607943,
+   "weight": 103.83688652317406,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7434191180171685,
+   "weight": 104.33390941066358,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1977929177237243,
+   "weight": 99.82076049588632,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8133289150493914,
+   "weight": 108.27495874830733,
+   "label": "basketball"
+  },
+  {
+   "height": 1.920279938336889,
+   "weight": 102.931469921593,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1313763650886837,
+   "weight": 108.92948142251942,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2419082016437692,
+   "weight": 92.14617851717168,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9911041970638284,
+   "weight": 101.85798812891235,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.991281477216534,
+   "weight": 110.00754679869121,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2496548369516765,
+   "weight": 101.79757897220851,
+   "label": "basketball"
+  },
+  {
+   "height": 2.337766034123885,
+   "weight": 97.93928842332264,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2336503668225,
+   "weight": 101.58233571895103,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8094191161267572,
+   "weight": 104.50462139778989,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.271911861163405,
+   "weight": 96.26469149608435,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9194099695968445,
+   "weight": 105.19138033261603,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9342996797809262,
+   "weight": 96.88909669003455,
+   "label": "basketball"
+  },
+  {
+   "height": 1.6819655242134486,
+   "weight": 97.5372323287424,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0258951706841475,
+   "weight": 99.8906365806352,
+   "label": "basketball"
+  },
+  {
+   "height": 2.066103037411266,
+   "weight": 99.18698836032797,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0115085312238756,
+   "weight": 104.93146335026935,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1583807838564217,
+   "weight": 98.89793987621464,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9607939206244784,
+   "weight": 92.91529326962706,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9548872318636752,
+   "weight": 102.79512824499088,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8508359515233035,
+   "weight": 98.06307448671639,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7060066340784426,
+   "weight": 108.82877661778895,
+   "label": "basketball"
+  },
+  {
+   "height": 2.134660161428745,
+   "weight": 94.33801830259587,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0063713726456758,
+   "weight": 100.7206079590999,
+   "label": "basketball"
+  },
+  {
+   "height": 1.632319366560958,
+   "weight": 97.62935450978947,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.8933098041181498,
+   "weight": 105.59381940496559,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": NaN
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.6593421196834768,
+   "weight": 101.05391678997742,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 1.972980027550683,
+   "weight": 103.11571099169188,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8708093486842583,
+   "weight": 101.51083268038289,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1146974204696702,
+   "weight": 99.96145547592123,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1809870112377294,
+   "weight": 97.9715176391671,
+   "label": "basketball"
+  },
+  {
+   "height": 2.3096426212043166,
+   "weight": 92.56778297997391,
+   "label": "basketball"
+  },
+  {
+   "height": 1.97282410713033,
+   "weight": 108.80598380033739,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9264765826904713,
+   "weight": 97.22355634771684,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9429595345662243,
+   "weight": 100.08832669280412,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1053175225422622,
+   "weight": 108.8620624618363,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.066225348995412,
+   "weight": 93.06567808392789,
+   "label": "basketball"
+  },
+  {
+   "height": 1.5873222475073328,
+   "weight": 100.17126368762018,
+   "label": "basketball"
+  },
+  {
+   "height": 2.014041907131212,
+   "weight": 110.66709955000157,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8347712545047221,
+   "weight": 102.12678000448135,
+   "label": "basketball"
+  },
+  {
+   "height": 1.6051174669496429,
+   "weight": 96.51892659001687,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9135055799451555,
+   "weight": 102.55802272365374,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.933657400189811,
+   "weight": 103.37725734025261,
+   "label": "basketball"
+  },
+  {
+   "height": 2.176859296860364,
+   "weight": 99.19857791607633,
+   "label": "basketball"
+  },
+  {
+   "height": 1.6983240258044616,
+   "weight": 98.06017803894585,
+   "label": "basketball"
+  },
+  {
+   "height": 2.672603419314063,
+   "weight": 97.01906450757663,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8657895160260711,
+   "weight": 105.6210034840445,
+   "label": "basketball"
+  },
+  {
+   "height": 2.53849103690955,
+   "weight": 96.81474707047136,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8413425584432124,
+   "weight": 105.02327396348714,
+   "label": "basketball"
+  },
+  {
+   "height": 2.082831891001175,
+   "weight": 99.22095264602781,
+   "label": "basketball"
+  },
+  {
+   "height": 1.619965146667827,
+   "weight": 93.02209720001692,
+   "label": "basketball"
+  },
+  {
+   "height": 2.206909027012397,
+   "weight": 99.59622795753776,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1625964807628058,
+   "weight": 99.7636964472076,
+   "label": "basketball"
+  },
+  {
+   "height": 2.3027223646448105,
+   "weight": 105.0708500010655,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8556311278482256,
+   "weight": 93.4612831570515,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7078452588187767,
+   "weight": 99.52025075266758,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2726571028463574,
+   "weight": 97.02914532655386,
+   "label": "basketball"
+  },
+  {
+   "height": 2.165759746866598,
+   "weight": 94.96956640601522,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9990762134701416,
+   "weight": 105.90270808923235,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8692806982189052,
+   "weight": 104.58580763932491,
+   "label": "basketball"
+  },
+  {
+   "height": 2.037355460021071,
+   "weight": 97.61115453716268,
+   "label": "basketball"
+  },
+  {
+   "height": 2.3636374667085898,
+   "weight": 100.45489040960736,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8566227911976654,
+   "weight": 100.48524548081086,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2532237333574163,
+   "weight": 96.05769842115681,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 2.15875179674939,
+   "weight": 103.65935319485007,
+   "label": "basketball"
+  },
+  {
+   "height": 2.36405510929279,
+   "weight": 97.93822339193109,
+   "label": "basketball"
+  },
+  {
+   "height": 2.065437144595048,
+   "weight": 108.65697383284702,
+   "label": "basketball"
+  },
+  {
+   "height": 2.3445772817949138,
+   "weight": 99.72657275540865,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8830428157097168,
+   "weight": 104.3955083852365,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.869254257761046,
+   "weight": 97.29905100774393,
+   "label": "basketball"
+  },
+  {
+   "height": 1.915031450472407,
+   "weight": 103.56306054822981,
+   "label": "basketball"
+  },
+  {
+   "height": 2.004045332003951,
+   "weight": 103.34981416432264,
+   "label": "basketball"
+  },
+  {
+   "height": 2.141845629514051,
+   "weight": 94.48271120159616,
+   "label": "basketball"
+  },
+  {
+   "height": 1.739975143038064,
+   "weight": 104.06966610236547,
+   "label": "basketball"
+  },
+  {
+   "height": 1.6440668208421372,
+   "weight": 97.37735244894432,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.016325240784601,
+   "weight": 101.63594443341262,
+   "label": "basketball"
+  },
+  {
+   "height": 1.5865696289788687,
+   "weight": 105.17898446028988,
+   "label": "basketball"
+  },
+  {
+   "height": 2.31952787645546,
+   "weight": 101.00736855822561,
+   "label": "basketball"
+  },
+  {
+   "height": 1.4977702688270855,
+   "weight": 100.84832753249893,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1340858025243903,
+   "weight": 101.9678773549943,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1453460203119787,
+   "weight": 98.79096090961077,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.149224053002855,
+   "weight": 103.84674943498332,
+   "label": "basketball"
+  },
+  {
+   "height": 2.07289845773588,
+   "weight": 92.7571358994877,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1039573283453827,
+   "weight": 85.00491758125847,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8295018453756458,
+   "weight": 95.84794021071376,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.8531505935535058,
+   "weight": 96.29743642772283,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.728613021612671,
+   "weight": 102.64850879307356,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 2.198660097701714,
+   "weight": 95.48940544727411,
+   "label": "basketball"
+  },
+  {
+   "height": 2.142300400440322,
+   "weight": 93.15356089708072,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1984492761189216,
+   "weight": 104.57479103970866,
+   "label": "basketball"
+  },
+  {
+   "height": 2.069995214512508,
+   "weight": 100.59317732304338,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": NaN
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 2.1339218338159207,
+   "weight": 105.90823726515158,
+   "label": "basketball"
+  },
+  {
+   "height": 2.132496060258691,
+   "weight": 106.07804874153415,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9297348578001818,
+   "weight": 102.86571187458532,
+   "label": "basketball"
+  },
+  {
+   "height": 2.252466617998236,
+   "weight": 87.81927651695395,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1801442342074466,
+   "weight": 97.6652756361933,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.105549273888972,
+   "weight": 93.78361379630037,
+   "label": "basketball"
+  },
+  {
+   "height": 2.339839318868318,
+   "weight": 92.9010400636221,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8755300137539066,
+   "weight": 105.30221386189908,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0655293349719677,
+   "weight": 92.21128109600694,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8662292382861614,
+   "weight": 105.32535145998332,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0707561996374606,
+   "weight": 100.70330781890264,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9786552350306086,
+   "weight": 97.34638557374892,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0928964286999436,
+   "weight": 95.06104672661809,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7095500148812288,
+   "weight": 99.34651511773859,
+   "label": "basketball"
+  },
+  {
+   "height": 2.166057547742993,
+   "weight": 102.274171348471,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0765739927217743,
+   "weight": 96.62862171494554,
+   "label": "basketball"
+  },
+  {
+   "height": 1.5646103600668833,
+   "weight": 93.16847508730875,
+   "label": "basketball"
+  },
+  {
+   "height": 2.2048085186315403,
+   "weight": 103.87035954525149,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 2.0637114224226387,
+   "weight": 95.80362682137711,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9184650047698462,
+   "weight": 97.0368617867051,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9476827597705093,
+   "weight": 105.99026207586105,
+   "label": "basketball"
+  },
+  {
+   "height": 1.9330381113389874,
+   "weight": 111.11162471513634,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7976741148035837,
+   "weight": 103.94330017197088,
+   "label": "basketball"
+  },
+  {
+   "height": 2.4588096251880986,
+   "weight": 101.12528243247601,
+   "label": "basketball"
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": "basketball"
+  },
+  {
+   "height": 1.7035049469076162,
+   "weight": 101.96269518701823,
+   "label": "basketball"
+  },
+  {
+   "height": -1.0,
+   "weight": -1.0,
+   "label": NaN
+  },
+  {
+   "height": NaN,
+   "weight": NaN,
+   "label": NaN
+  },
+  {
+   "height": 1.9688447515925822,
+   "weight": 94.4567917848842,
+   "label": "basketball"
+  },
+  {
+   "height": 1.6916649724097488,
+   "weight": 100.1198862518973,
+   "label": "basketball"
+  },
+  {
+   "height": 1.8745289390035405,
+   "weight": 102.4245933693399,
+   "label": "basketball"
+  },
+  {
+   "height": 2.1127349666021655,
+   "weight": 101.15416832705027,
+   "label": "basketball"
+  },
+  {
+   "height": 2.0369282703251566,
+   "weight": 102.29672704538353,
+   "label": "basketball"
+  }
+ ]
+}
